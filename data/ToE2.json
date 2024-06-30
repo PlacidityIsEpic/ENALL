@@ -1,0 +1,24 @@
+{
+    "id": 18,
+    "name": "Theory of Everything 2",
+    "author": "RobTop",
+    "creators": ["RobTop"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?v=4TkrQ5SCnvU",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+         {
+            "user": "Bennymccheese",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        },
+        {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "molteyorc",
+    "creators": ["molteyorc, ScorchVX"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?v=B178Yn-d8Jw",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+         {
+            "user": "Bennymccheese",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

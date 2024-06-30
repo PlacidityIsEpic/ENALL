@@ -1,0 +1,25 @@
+
+{
+    "id": 80433444,
+    "name": "MAYMORY",
+    "author": "ItzKiba",
+    "creators": ["ItzKiba"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?v=-rT3qjuZpXU",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+         {
+            "user": "Bennymccheese",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        },
+        {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

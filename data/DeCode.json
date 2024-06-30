@@ -1,0 +1,24 @@
+{
+    "id": 2997354,
+    "name": "DeCode",
+    "author": "Rek3dge",
+    "creators": ["Rek3dge"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?v=vCPIUrilQpo&t=1s",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+         {
+            "user": "Bennymccheese",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        },
+         {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

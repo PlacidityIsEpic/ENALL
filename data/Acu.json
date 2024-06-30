@@ -1,0 +1,18 @@
+{
+    "id": 64148732,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "Agelio",
+    "verification": "https://youtu.be/XyMnEqdSRSk",
+    "percentToQualify": "63",
+    "password": "Free to Copy",
+    "records": [
+         {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

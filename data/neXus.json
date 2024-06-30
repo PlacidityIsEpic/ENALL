@@ -1,0 +1,24 @@
+{
+    "id": 57307363,
+    "name": "neXus",
+    "author": "BlueRimz",
+    "creators": ["BlueRimz"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?app=desktop&v=H8tK1U1k0kI",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+         {
+            "user": "Bennymccheese",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        },
+        {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "Cirtrax",
+    "creators": ["Gizbro, Cirtrax"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?v=dDctb3i8gRc",
+    "percentToQualify": "63",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

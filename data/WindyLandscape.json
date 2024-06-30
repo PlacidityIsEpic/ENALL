@@ -1,0 +1,24 @@
+{
+    "id": 4957691,
+    "name": "Windy Landscape",
+    "author": "WOOGI1411",
+    "creators": ["WOOGI1411"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?v=TFJz0EuN3-I",
+    "percentToQualify": "68",
+    "password": "Free to Copy",
+    "records": [
+           {
+            "user": "Bennymccheese",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        },
+        {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}
